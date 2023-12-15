@@ -1,5 +1,6 @@
 # Festival MMI Site web
 
+
 ## Objectif :
 
 Créer un site web afin de concurrencer les participants au festival MMI 2024 dans la partie **“développement web”**
