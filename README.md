@@ -7,7 +7,7 @@ Créer un site web afin de concurrencer les participants au festival MMI 2024 da
 
 ## Idée :
 
-Faire un site web axé sur le thème des saisons avec des informations sur la saison choisi afin d’avoir plus d’interaction et de proposer une expérience utilisateur optimale à nos clients. Vous partirez sur la structure suivante : 
+Faire un site web axé sur le thème des saisons avec des informations sur la saison choisie afin d’avoir plus d’interaction et de proposer une expérience utilisateur optimale à nos clients. Vous partirez sur la structure suivante : 
 
 ```
 code/
