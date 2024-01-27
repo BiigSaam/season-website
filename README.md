@@ -17,7 +17,7 @@ code/
 │        └── Favicons
 │   ├── styles/
 │   └── includes/
-│				├── header.html
+│	├── header.html
 │       └── footer.html
 ├── src/
     ├── index.html
